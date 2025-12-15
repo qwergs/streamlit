@@ -1,7 +1,7 @@
 #%% 
 import streamlit as st
 
-# st.title('1번 스트림릿')
+st.title('데이터 시각화 3차 시험')
 # %%
 import streamlit as st
 
