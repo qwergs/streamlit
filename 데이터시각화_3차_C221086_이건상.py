@@ -338,3 +338,4 @@ st.write(f"입력된 텍스트: {text}")
 
 
 ## gpt 링크 : https://chatgpt.com/share/693fab53-1d90-800e-9ce8-a7648e4b258b
+## 스트림릿 링크 : https://github.com/qwergs/streamlit
